@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
+![snake gif](https://github.com/DuongTrungHien/DuongTrungHien/blob/output/github-contribution-grid-snake.svg)
+
